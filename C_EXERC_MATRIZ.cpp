@@ -1,7 +1,8 @@
 /*
-** MultiplicaÁ„o de Matrizes Quadradas (N x N)
-** Prof. Filipo MÛr - filipomor.com
-** 24 de marÁo de 2021
+** Multiplica√ß√£o de Matrizes Quadradas (N x N)
+** Prof. Filipo M√≥r - filipomor.com
+** 24 de mar√ßo de 2021
+** Utiliza√ß√£o para exercicio C) AB1*AB2
 */
 
 #include <stdio.h>
